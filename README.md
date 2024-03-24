@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hola a todos 👋
+#### Soy Mateo Salas. Soy developer FullStack Jr. :technologist:
+- Tengo conocimientos en .Net, Entity framework, .Net Core, Asp.Net :computer:
+- Mi objetivo es desenvolverme como developer Front end orientado a desarollo Mobile. :iphone:
+- Me encuentro estudiando y capacitandome en Java y Angular 17 🧑‍🎓
 <!--
 **Mateosalas07/Mateosalas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
